@@ -24,7 +24,7 @@ The following images demonstrate the hydrodynamic entrance region. As the fluid 
 | Inlet & Early Development | Mid-Channel Development | Fully Developed Flow |
 | :---: | :---: | :---: |
 | **x = 0**<br>![x=0](0.png) | **x = 300**<br>![x=300](300.png) | **x = 500**<br>![x=500](500.png) |
-| **x = 100**<br>![x=100](100.png) | **x = 400**<br>![x=400](400.png) | **x = 600**<br>![x=600](600.png) |  **x = 700**<br>![x=700](700.png) |  **x = 800**<br>![x=800](800.png) |  **x = 900**<br>![x=900](900.png) |  **x = 1000**<br>![x=1000](1000.png) |  **x = 1019**<br>![x=1019](1019.png)
+| **x = 100**<br>![x=100](100.png) | **x = 400**<br>![x=400](400.png) | **x = 600**<br>![x=600](600.png) |  
 
 ### Density Variation
 ![Density Variation](Density_variation.png)
